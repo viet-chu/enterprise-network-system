@@ -1,4 +1,4 @@
-# enterprise-network-ccna
+# Enterprise-network-ccna
 ## Overview
 Mô phỏng hệ thống mạng của doanh nghiệp quy mô vừa với quản lí tập trung, phân chia phòng ban, đảm bảo hiệu năng và bảo mật cơ bản bằng phần mềm Cisco Packet Tracer.
 ## Các tính năng của hệ thống mạng

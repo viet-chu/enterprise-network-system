@@ -1,19 +1,19 @@
 # Enterprise-network-ccna
-## Overview
+## Giới thiệu chung
 Mô phỏng hệ thống mạng của doanh nghiệp quy mô vừa với quản lí tập trung, phân chia phòng ban, đảm bảo hiệu năng và bảo mật cơ bản bằng phần mềm Cisco Packet Tracer.
 ## Các tính năng của hệ thống mạng
 - Phân chia VLAN cho các phòng ban (IT, Sales, HR, Guest, Manager, Server)
-- Inter-VLAN sử dụng Router-on-a-stick
+- Inter-VLAN sử dụng SVI
 - Cấu hình DHCP trên Router
 - NAT Overload dùng cho truy cập Internet
 - Access Control Lists (ACL) cho các kiểm soát truy cập
-- Port-Security mac-address cho bảo mật hệ thống
+- Port-Security mac-address và Syslog cho bảo mật hệ thống
 ## Cấu trúc hệ thống mạng
 ## Các công nghệ sử dụng trong dự án
 - Cisco Packet Tracer
 - Cisco IOS
 - VLAN, Trunking, Inter-VLAN Routing
-- DHCP, NAT, ACL, Port Security
+- DHCP, NAT, ACL, Port Security, Syslog
 ## Cấu trúc dự án
 - Cấu hình, file Packet Tracer, báo cáo và kiểm thử hệ thống
 ## Tác giả
